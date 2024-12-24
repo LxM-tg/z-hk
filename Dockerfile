@@ -1,4 +1,4 @@
-FROM dawn001/dev:hk_main
+FROM dawn001/z_mirror:hk_main
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
